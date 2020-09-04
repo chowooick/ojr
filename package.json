@@ -139,7 +139,7 @@
     "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0",
     "rickshaw": "1.6.6",
-    "showdown": "1.8.6",
+    "showdown": "1.9.1",
     "skycons": "^1.0.0",
     "sortablejs": "1.10.0",
     "styled-components": "^5.1.0",
