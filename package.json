@@ -83,7 +83,7 @@
     "formik": "1.5.1",
     "formsy-react": "0.19.5",
     "glyphicons-halflings": "^1.9.1",
-    "highcharts": "^7.2.0",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "history": "^4.10.1",
     "jasny-bootstrap": "^3.1.3",
